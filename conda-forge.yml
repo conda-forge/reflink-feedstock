@@ -8,7 +8,7 @@ github:
 provider:
   linux_aarch64: default
   osx_arm64: default
-  linux_ppc64le: linux_64
+  linux_ppc64le: default
 bot:
   inspection: hint-all
 test: native_and_emulated
